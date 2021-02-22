@@ -1,4 +1,4 @@
-# Medical Report System in Java
+# HealthTrack- Medical Report System in Java
 
 ## Project Abstract
 This system will allow doctors to input data on individual patients including their age, height/weight, blood pressure, symptoms, etc. Based on this data, the system will create a tenative report on the patient detailing their current medical status and a list of viruses/diseases that the patient most likely may have. In addition, the system will also generate a list of reccomended medications to prescribe based on the patients medical status. As the doctor inputs patients, they will be added to a database where they can be accessed at any time and be easily put back into the system if their information changes.
